@@ -79,6 +79,7 @@ img {
   margin-bottom: var(--mb-4);
   text-align: center;
 }
+
 .section-title::after {
   position: absolute;
   content: "";
@@ -321,6 +322,11 @@ img {
 .work__img img:hover {
   transform: scale(1.1);
 }
+.work__subtitle{
+  text-align: center;
+  margin-top: var(--mb-2);
+  margin-bottom: var(--mb-4);
+}
 
 /* ===== CONTACT =====*/
 .contact__input {
@@ -341,6 +347,7 @@ img {
   cursor: pointer;
   margin-left: auto;
 }
+
 
 /* ===== FOOTER =====*/
 .footer {
