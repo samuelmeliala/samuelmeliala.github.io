@@ -363,6 +363,7 @@ img {
 }
 .footer__copy {
   font-size: var(--smaller-font-size);
+  margin-top: var(--mb-6);
 }
 
 /* ===== MEDIA QUERIES=====*/
