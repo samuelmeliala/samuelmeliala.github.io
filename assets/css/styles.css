@@ -292,17 +292,17 @@ img {
   border-radius: 0.5rem;
   z-index: var(--z-back);
 }
-.skills__html {
-  width: 95%;
+.skills__mobile {
+  width: 50%;
 }
-.skills__css {
-  width: 85%;
+.skills__html5 {
+  width: 45%;
 }
-.skills__js {
-  width: 65%;
+.skills__css3 {
+  width: 40%;
 }
-.skills__ux {
-  width: 85%;
+.skills__bootstrap {
+  width: 30%;
 }
 .skills__img {
   border-radius: 0.5rem;
@@ -363,7 +363,7 @@ img {
 }
 .footer__copy {
   font-size: var(--smaller-font-size);
-  margin-top: var(--mb-6);
+  margin-top: var(--mb-4);
 }
 
 /* ===== MEDIA QUERIES=====*/
