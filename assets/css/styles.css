@@ -42,7 +42,8 @@ body {
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   color: #201E43;
-  background-color: #EEEEEE;
+  background-image: url(https://img.freepik.com/free-photo/gray-texture_1253-246.jpg);
+  /* background-color: #EEEEEE; */
 }
 
 h1, h2, p {
