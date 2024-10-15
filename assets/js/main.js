@@ -59,7 +59,7 @@ sr.reveal('.skills__data, .project, .contact__input, .contact__subtitle',{interv
 
 /*===== TYPEWRITTER EFFECT =====*/
 document.addEventListener("DOMContentLoaded", function () {
-    const texts = ["Mobile Developer", "Web Developer"];
+    const texts = ["Mobile", "Front-End"];
     let count = 0;
     let index = 0;
     let currentText = "";

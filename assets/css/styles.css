@@ -187,7 +187,7 @@ img {
 }
 .home__title {
   font-size: var(--big-font-size);
-  margin-bottom: var(--mb-5);
+  margin-bottom: 0.5rem;
 }
 .home__title-color {
   color: #508C9B;
@@ -198,7 +198,7 @@ img {
 }
 .home__social-icon {
   width: max-content;
-  margin-bottom: var(--mb-2);
+  margin-bottom: 0.5rem;
   font-size: 1.5rem;
   color: #201E43;
 }
